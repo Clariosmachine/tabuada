@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cadetblue;
+    text-align: center;
+    color: bisque;
+    box-sizing: border-box;
+}
+
+section {
+    color: rgb(0, 0, 44);
+    background-color: antiquewhite;
+    width: 320px;
+    border-radius: 1em;
+    margin: auto;
+    box-shadow: 10px 5px 10px rgb(0, 0, 44);
+}
+
+#labelNumero {
+    display: block;
+    padding-top: 1em;
+    }
+
+textarea {
+    width:200px;
+    margin: 1em;
+
+}
